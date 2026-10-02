@@ -1,0 +1,8 @@
+{
+  "name": "weise-pakete",
+  "description": "Public knowledge packs for the Weise tutor plugin: ready-made learning material, data only. No packs yet.",
+  "owner": {
+    "name": "Jason Lau-Christen"
+  },
+  "plugins": []
+}
