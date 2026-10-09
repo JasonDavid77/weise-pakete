@@ -1,8 +1,15 @@
 {
   "name": "weise-pakete",
-  "description": "Public knowledge packs for the Weise tutor plugin: ready-made learning material, data only. No packs yet.",
+  "description": "Public knowledge packs for the Weise tutor plugin: ready-made learning material, data only.",
   "owner": {
     "name": "Jason Lau-Christen"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "weise-agentische-kanzlei",
+      "source": "./plugins/weise-agentische-kanzlei",
+      "description": "Eight AI-assisted research reports (German, as of 2026-10-01) on agentic AI in legal services, focused on an agentic legal department offered by a law firm as a product. Data only.",
+      "category": "weise-paket"
+    }
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "paket": "weise-agentische-kanzlei",
+  "thema": "agentische-kanzlei",
+  "titel": "Agentische Kanzlei: agentische Rechtsabteilung als Produkt",
+  "version": "1.0.0",
+  "stand": "2026-10-01",
+  "sprache": "de",
+  "volatilitaet": "hoch (4 Wochen): Anbieter, Preise, Studienlage und Regulierung aendern sich laufend",
+  "quelle": "Acht KI-gestuetzte Webrecherchen (Claude mit Websuche) vom 2026-10-01, je Thema ein Auftrag; Quellen mit Link in jedem Bericht",
+  "hinweis": "KI-Recherche: Quellen verlinkt, aber nicht einzeln geprueft. Vor Verwendung als Beleg die Quelle selbst lesen. Keine Rechtsberatung. Lizenz der Texte: CC BY 4.0 (Jason Lau-Christen); verlinkte Quellen gehoeren ihren Urhebern.",
+  "anzahl": 9,
+  "dateien": [
+    { "pfad": "r1-pfade-am-markt.md", "sha256": "970968c829ba86759da0a683c2bf504068e4a23b2b1756f05891aee1583b289a" },
+    { "pfad": "r2-anbieter-und-geschaeftsmodelle.md", "sha256": "c1860964c04796ede661be3874e728664c4f539e3f6f9ef5ae775ba1ff93f1ec" },
+    { "pfad": "r3-nachfrage.md", "sha256": "3677e0e2290d1afb5ecc1964db0607cf2f42d18b44d3aaecbf7e897cce4dda90" },
+    { "pfad": "r4-bauweisen.md", "sha256": "6e1ea3cb71a360a4ffa116d44c4af18c04f2b54fce7e23643859d1d9db821b87" },
+    { "pfad": "r5-wirtschaftlichkeit.md", "sha256": "f44ad3db9015eda2f42cb5adeffb0c86f37e11fc0ff65c225dbd2fe631034483" },
+    { "pfad": "r6-rechtsrahmen.md", "sha256": "70472d3bb1dcf48da66eb8c19ed40ce8621256f11e0d73ed36225e2251ea5252" },
+    { "pfad": "r7-gemeinsamer-kern.md", "sha256": "d7ac091ad5bdf555673de666b5adb8c3cc2dac3fde2a8fa8af489c1b14f5b392" },
+    { "pfad": "r8-erster-schritt.md", "sha256": "a10337d27204902fbe1eb2c7f54b0794112a48c6e57c55bedd69c782b5a80833" },
+    { "pfad": "readme.md", "sha256": "3ce11b6fe0342f68137f605fe5db54839193cafa0c37bdbe7e0b757ff236d86f" }
+  ]
+}

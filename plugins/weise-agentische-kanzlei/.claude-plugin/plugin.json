@@ -1,0 +1,16 @@
+{
+  "name": "weise-agentische-kanzlei",
+  "displayName": "Wissenspaket Agentische Kanzlei",
+  "version": "1.0.0",
+  "description": "Knowledge pack for the Weise tutor plugin: eight AI-assisted research reports (German, as of 2026-10-01) on agentic AI in legal services, focused on an agentic legal department offered by a law firm as a product. Data only, no skills.",
+  "author": {
+    "name": "Jason Lau-Christen"
+  },
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "weise-paket",
+    "knowledge-pack",
+    "legal-ai",
+    "agentic-ai"
+  ]
+}

@@ -6,9 +6,11 @@ Ein Wissenspaket ist fertiges Lernmaterial zu einem Thema, als Text. Es ist ein 
 
 ## Pakete
 
-Noch keine. Der Katalog ist angelegt, damit Pakete hier erscheinen, sobald es sie gibt.
+| Paket | Inhalt | Stand |
+|---|---|---|
+| `weise-agentische-kanzlei` | Agentische Kanzlei: acht Rechercheberichte zu agentischer KI in der Rechtsberatung, Zuschnitt agentische Rechtsabteilung als Produkt (Deutsch) | 2026-10-01 |
 
-## Installieren (sobald es Pakete gibt)
+## Installieren
 
 In der Claude-Desktop-App: Profil unten links > Einstellungen > unter „Anweisungen“ auf „Plugins“ > Repo `JasonDavid77/weise-pakete` angeben > beim Paket auf das Plus. Mit Befehlen:
 
