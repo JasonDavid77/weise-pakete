@@ -25,6 +25,17 @@ Danach eine neue Sitzung und `/weise:paket`.
 
 Das Format steht in der Anleitung des Weisen: [docs/wissenspaket.md](https://github.com/JasonDavid77/der-weise/blob/main/docs/wissenspaket.md). Wichtig: Das Repo braucht eine Datei `.gitattributes` mit `* -text`, sonst stimmen unter Windows die Prüfsummen nicht.
 
+## Ein Paket einreichen
+
+Sie haben Lernmaterial, das anderen hilft? So kommt es in diesen Katalog:
+
+1. Legen Sie auf GitHub eine eigene Kopie dieses Repos an (Schaltfläche „Fork“).
+2. Bauen Sie Ihr Paket dort in einem Zweig `paket/<name>` unter `plugins/<name>/`, tragen Sie es in `.claude-plugin/marketplace.json` ein (mit `"category": "weise-paket"`) und ergänzen Sie die Paketliste oben.
+3. Stellen Sie einen Pull Request. Die Vorlage fragt eine kurze Prüfliste ab: Format, Prüfsummen, nur Daten, Herkunft, Lizenz, nichts Vertrauliches.
+4. Der Betreiber prüft jede Einreichung: Prüfsummen, Aufbau, Herkunft und Lizenz, und ob etwas Vertrauliches oder ein Bezug zu einem Arbeitgeber oder Auftraggeber zu erkennen ist. Danach übernimmt er das Paket, bittet um Änderungen oder lehnt ab. Ein Anspruch auf Aufnahme besteht nicht.
+
+Was nicht hierher gehört: Material, das Sie nicht veröffentlichen dürfen (etwa Texte hinter einer Bezahlschranke oder aus einem lizenzierten Produkt), und alles Vertrauliche. Mit Ihrem Pull Request stellen Sie Ihr Material unter die Lizenz, die Sie im Paket nennen.
+
 ## Lizenz
 
 MIT für diesen Katalog. Jedes Paket nennt die Herkunft und die Nutzungsbedingungen seines Materials selbst.
